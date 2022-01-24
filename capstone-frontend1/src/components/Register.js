@@ -25,7 +25,7 @@ export default class Register extends Component {
                     <input type="password" className="form-control" placeholder="Enter password" />
                 </div>
 
-                <button type="submit" className="btn btn-primary btn-block">Sign Up</button>
+                <button type="submit" className="btn btn-primary btn-block">Register</button>
                 <p className="forgot-password text-right">
                 </p>
             </form>

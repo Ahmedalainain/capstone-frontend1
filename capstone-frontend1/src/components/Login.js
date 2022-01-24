@@ -24,9 +24,12 @@ function Login()
         </label>
         <input type="password"/>
     </form>
+    <button type="submit" className="btn btn-primary btn-block">
+        Log in
+    </button>
     <button onClick={handlesumbit}>
         forgot password
-    </button>
+    </button> 
     </>)
 
 
